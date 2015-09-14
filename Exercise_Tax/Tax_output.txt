@@ -1,0 +1,3 @@
+Number: 3 	 Product_name: food 	 price: 9.0
+Number: 4 	 Product_name: food 	 price: 8.0
+Total price all goods after tax: 17.0$

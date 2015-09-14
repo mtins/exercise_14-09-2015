@@ -1,0 +1,2 @@
+Name: tin 	 Age: 18 	 Gender: female
+Name: hop 	 Age: 24 	 Gender: male

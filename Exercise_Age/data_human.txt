@@ -1,0 +1,3 @@
+tin,18,female
+minh,15,female
+hop,24,male
